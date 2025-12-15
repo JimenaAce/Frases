@@ -11,4 +11,4 @@ RUN chmod +x mvnw \
 
 EXPOSE 8080
 
-CMD ["java", "-jar", "target/frases-api-0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "target/frases-0.0.1-SNAPSHOT.jar"]
